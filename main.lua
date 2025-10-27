@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Golden Freddy That Really Hates Talisman
+--- MOD_NAME: Golden Freddy That Really Fucking Hates Talisman
 --- MOD_ID: goldenfreddy
 --- MOD_AUTHOR: [garb]
 --- MOD_DESCRIPTION: Disables Talisman forcefully
